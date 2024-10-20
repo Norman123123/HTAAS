@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "     Gửi đến chị Tr   ." //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "     Gửi đến chị Tr tr  ." //Lời mở đầu cho bức thư
 const mainContentLetter = "Chúc chị luôn luôn xinh đẹp và hạnh phúc .Hãy luôn trân trọng và tự yêu bản thân mình, bởi bạn xứng đáng với những điều tốt đẹp nhất trong cuộc sống.Happy Women's Day!" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
